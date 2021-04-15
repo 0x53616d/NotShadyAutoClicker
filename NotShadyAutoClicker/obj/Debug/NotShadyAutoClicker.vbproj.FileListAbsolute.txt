@@ -1,0 +1,12 @@
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\bin\Debug\NotShadyAutoClicker.exe.config
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\bin\Debug\NotShadyAutoClicker.exe
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\bin\Debug\NotShadyAutoClicker.pdb
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\bin\Debug\NotShadyAutoClicker.xml
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.vbprojAssemblyReference.cache
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.Resources.resources
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.vbproj.GenerateResource.cache
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.vbproj.CoreCompileInputs.cache
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.exe
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.xml
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.pdb
+C:\Users\Sam\source\repos\NotShadyAutoClicker\NotShadyAutoClicker\obj\Debug\NotShadyAutoClicker.MainForm.resources
